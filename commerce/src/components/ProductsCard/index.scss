@@ -1,0 +1,9 @@
+@use "../../sass/variables" as *;
+
+.home__card{
+    padding-top: 52px;
+  padding-bottom: 96px;
+  display: flex;
+  column-gap: 35px;
+  justify-content: center;
+}
